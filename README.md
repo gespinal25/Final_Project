@@ -1,7 +1,7 @@
 # 2022 NFL Game Prediction Analysis
 
 ## Overview of Project
-Project group two decided to build a NFL game prediction tool for the upcoming 2022 NFL season. 
+Project group two decided to build a NFL game prediction tool for the upcoming 2022 NFL season. We chose this project because we are all football fans. We have fans of the Eagles, Bills, and the Packers in this group. We can use our prediction tool to see how our teams will fair in the upcoming 2022 season.
   
 ### Team Roles
 Group two overcame a hurdle to get the team roles established. Initially, each team member were able to get the role they desired, however one team member has not been present to agree to the roles. As a group of three, we decided to keep our original roles and then work as a team to cover the fourth role. The roles are as follows:
