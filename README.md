@@ -12,7 +12,7 @@ Group two overcame a hurdle to get the team roles established. Initially, each t
 - X Role: Jesse. He will decide which technologies will be used for the prediction tool.
 
 ### Technology Used
-For our analysis we will use python and tableau. We will use python to create the code needed for our analysis. We will import the data sets we acquired and display our results using tableau. 
+For our analysis we will use python and tableau. We will use python (pandas, numby, and Scikit-learn linear regression model) to create the code needed for our analysis. We will import the data sets we acquired and display our results using tableau.
 
 ### Communication
 Our communication is on slack and zoom. We use class time in break out rooms to hash out what tasks need to be completed for the week. We talk it out as a group to make sure everyone understands our final project and what we would like to accomplish. We use slack outside of class time to communicate with the group. We share ideas and discuss what needs to be completed. We will inform the team when any files are uploaded to github for group review. 
