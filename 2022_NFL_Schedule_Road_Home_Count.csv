@@ -1,0 +1,36 @@
+Team,Conference,Division,Stadium,"GAME
+COUNT","ROAD
+GAMES","HOME
+GAMES"
+ARI,NFC,NFC West,State Farm Stadium,17,8,9
+ATL,NFC,NFC South,Mercedes-Benz Stadium,17,8,9
+BAL,AFC,AFC North,M&T Bank Stadium,17,9,8
+BUF,AFC,AFC East,Highmark Stadium,17,9,8
+CAR,NFC,NFC South,Bank of America Stadium,17,8,9
+CHI,NFC,NFC North,Soldier Field,17,8,9
+CIN,AFC,AFC North,Paul Brown Stadium,17,9,8
+CLE,AFC,AFC North,FirstEnergy Stadium,17,9,8
+DAL,NFC,NFC East,AT&T Stadium,17,8,9
+DEN,AFC,AFC West,Empower Field at Mile High,17,9,8
+DET,NFC,NFC North,Ford Field,17,8,9
+GB,NFC,NFC North,Lambeau Field,17,8,9
+HOU,AFC,AFC South,NRG Stadium,17,9,8
+IND,AFC,AFC South,Lucas Oil Stadium,17,9,8
+JAC,AFC,AFC South,TIAA Bank Field,17,9,8
+KC,AFC,AFC West,GEHA Field at Arrowhead Stadium,17,9,8
+LAC,AFC,AFC West,Sofi Stadium,17,9,8
+LAR,NFC,NFC West,Sofi Stadium,17,8,9
+MIA,AFC,AFC East,Hard Rock Stadium,17,9,8
+MIN,NFC,NFC North,U.S. Bank Stadium,17,8,9
+NYG,NFC,NFC East,MetLife Stadium,17,8,9
+NYJ,AFC,AFC East,MetLife Stadium,17,9,8
+NE ,AFC,AFC East,Gillette Stadium,17,9,8
+NO,NFC,NFC South,Louisiana Superdome,17,8,9
+LV,AFC,AFC West,Allegiant Stadium,17,9,8
+PHI,NFC,NFC East,Lincoln Financial Field,17,8,9
+PIT,AFC,AFC North,Heinz Field,17,9,8
+SF,NFC,NFC West,Levi's Stadium,17,8,9
+SEA,NFC,NFC West,CenturyLink Field,17,8,9
+TB,NFC,NFC South,Raymond James Stadium,17,8,9
+TEN,AFC,AFC South,Nissan Stadium,17,9,8
+WAS,NFC,NFC East,FedExField,17,9,8
