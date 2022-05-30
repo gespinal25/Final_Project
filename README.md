@@ -19,3 +19,6 @@ Our base of communication is on Slack and Zoom. We use Zoom during our class tim
     
 ### Data Sets
 The data sets we have for our analysis are 2022 strength of schedule and team stats dating back to 2002. We will use the overall record for each team during each season to build a trending pattern of wins and losses. We will combine that data with the upcoming seasons strength of schedule, record of opponents, and statistics for QBs, RBs, WRs, and DEF to complete our 2022 NFL game predictions. Data sets will be updated and reformatted to be read by the technology used. All the data sets contain a "Team" column with the abbreviated name for each to in order for the data sets to interact together. 
+
+Dashboard
+The dashboard we are looking to build is a user friendly dashboard. We would like to include all the data we have gathered but not overwhelm the user. We would like to have separate folders/sections for the user to be able to browse the information they are looking for. The user can sort through the NFL team they are looking for and under each team will contain the schedule, results, prediction as well as data for QBs, RBs, WRs, and Defense. This dashboard will display all the data that was used for our prediction analysis.
