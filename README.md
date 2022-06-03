@@ -22,16 +22,21 @@ The data sets we have for our analysis are 2022 strength of schedule and team st
 
 ### Dashboard
 The dashboard we are looking to build is a user friendly dashboard. We would like to include all the data we have gathered but not overwhelm the user. We would like to have separate folders/sections for the user to be able to browse the information they are looking for. The user can sort through the NFL team they are looking for and under each team will contain the schedule, results, prediction as well as data for QBs, RBs, WRs, and Defense. This dashboard will display all the data that was used for our prediction analysis. Here is a brief outline of how our dashboard is going to look like:
-First page: Create a Milestone Infographic Timeline
-  - The viewers will see a roadmap showing what is going to be presented
-Second page: Create a Bar Graph of Wins, Losses, and Ties of each team throughout the years
-  - Using the data from 2002-2021
-Third Page: Create a Bar/Scatter Graph or maybe Heat Map of team members and stats
-  - Each category is going to have its own graph
-  - The categories are WR, RB, QB and DST
-Fourth Page: Create a packed bubbles for schedules
-  - Each category is going to have its own graph
-  - The categories are Strength of Schedules, Original Schedule, and Road/Home games
-Fifth Page: Create a visual graph of the prediction of this upcoming season
-  - Will determine what visual will fit best once I have the data
-  - Will show the predicted wins/losses for each game
+
+- First page: Create a Milestone Infographic Timeline
+  -- The viewers will see a roadmap showing what is going to be presented
+  
+- Second page: Create a Bar Graph of Wins, Losses, and Ties of each team throughout the years
+  -- Using the data from 2002-2021
+  
+- Third Page: Create a Bar/Scatter Graph or maybe Heat Map of team members and stats
+  -- Each category is going to have its own graph
+  -- The categories are WR, RB, QB and DST
+  
+- Fourth Page: Create a packed bubbles for schedules
+  -- Each category is going to have its own graph
+  -- The categories are Strength of Schedules, Original Schedule, and Road/Home games
+  
+- Fifth Page: Create a visual graph of the prediction of this upcoming season
+  -- Will determine what visual will fit best once I have the data
+  -- Will show the predicted wins/losses for each game
