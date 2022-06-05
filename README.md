@@ -17,7 +17,7 @@ For our analysis we will use python and tableau. We will use python (such as pan
 ### Communication
 Our base of communication is on Slack and Zoom. We use Zoom during our class time in break-out rooms to regroup, hash out what tasks needs to be completed for the week. We use Slack outside of class time to communicate with the group. For instance, how we use Slack is we share details to make sure everyone understands our final project, answer any questions we might have and what we would like to accomplish. Also, we share ideas and discuss what needs to be completed for the upcoming weeks. In addition, we keep in touch on slack to inform the team when any files are uploaded to github for group review. 
     
-### Data Sets
+### Datasets
 The data sets we have for our analysis are 2022 strength of schedule and team stats dating back to 2002. We will use the overall record for each team during each season to build a trending pattern of wins and losses. We will combine that data with the upcoming seasons strength of schedule, record of opponents, and statistics for QBs, RBs, WRs, and DEF to complete our 2022 NFL game predictions. Data sets will be updated and reformatted to be read by the technology used. All the data sets contain a "Team" column with the abbreviated name for each to in order for the data sets to interact together. 
 
 ### Dashboard
