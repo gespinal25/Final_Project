@@ -41,4 +41,4 @@ The dashboard we are building is a user friendly dashboard. We would like to inc
 - Fifth Page: Create a visual graph of the prediction of this upcoming season
   -- Will determine what visual will fit best once I have the data
   -- Will show the predicted wins/losses for each game
-
+![5](https://github.com/gespinal25/Final_Project/blob/main/2021_QB_Stats_Plotly.png)
