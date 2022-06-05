@@ -25,14 +25,18 @@ The dashboard we are building is a user friendly dashboard. We would like to inc
   
 - Second page: Create a Bar Graph of Wins, Losses, and Ties of each team throughout the years
   -- Using the data from 2002-2021
+  ![1](https://github.com/gespinal25/Final_Project/blob/main/NFL_2002-2021_bg.png)
   
 - Third Page: Create a Bar/Scatter Graph or maybe Heat Map of team members and stats
   -- Each category is going to have its own graph
   -- The categories are WR, RB, QB and DST
+  ![2](https://github.com/gespinal25/Final_Project/blob/main/RB_Stat.png)
+  ![3](https://github.com/gespinal25/Final_Project/blob/main/WR_Stat.png)
   
 - Fourth Page: Create a packed bubbles for schedules
   -- Each category is going to have its own graph
   -- The categories are Strength of Schedules, Original Schedule, and Road/Home games
+  ![4](https://github.com/gespinal25/Final_Project/blob/main/Strength_Sch.png)
   
 - Fifth Page: Create a visual graph of the prediction of this upcoming season
   -- Will determine what visual will fit best once I have the data
