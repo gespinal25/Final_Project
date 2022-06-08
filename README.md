@@ -3,7 +3,7 @@
 ## Overview of Project
 For our group project we decided to build an NFL game prediction tool for the upcoming 2022 NFL season. We chose this project because we are all football fans. We are fans of the Eagles, Bills, and the Packers. We can use our prediction tool to see how the outcomes of our teams will fair in the upcoming 2022 season. The application will also show historical data for all teams. 
 
-https://docs.google.com/presentation/d/1ZvpOXmh9rtADLx8kJuIlLuLyKW3kg7nmaObMBLoU9PA/edit?usp=sharing
+https://docs.google.com/presentation/d/1ZvpOXmh9rtADLx8kJuIlLuLyKW3kg7nmaObMBLoU9PA/edit?usp=sharing 
   
 ### Team Roles
 Group two overcame a hurdle to get the team roles established. Initially, each team member was able to get the role they desired, however one team member has not been presented to agree to the roles. As a group of three, we decided to keep our original roles and then work as a team to cover the fourth role. The roles are as follows:
