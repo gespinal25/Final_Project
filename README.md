@@ -19,6 +19,11 @@ For our analysis we will use python and tableau. We will use python (such as pan
 ### Datasets
 The data sets we have for our analysis are 2022 strength of schedule and team stats dating back to 2002. We will use the overall record for each team during each season to build a trending pattern of wins and losses. We will combine that data with the upcoming seasons strength of schedule, record of opponents, and statistics for QBs, RBs, WRs, and DEF to complete our 2022 NFL game predictions. Data sets will be updated and reformatted to be read by the technology used. All the data sets contain a "Team" column with the abbreviated name for each to in order for the data sets to interact together. 
 
+### Database
+Our team is using an online database with continous NFL statistics updates to have the most up to date information for our tool. The database that is used is sportsipy (sportsipy.nfl.boxscore.Boxscore). Using the following code, our tool will be able to pull the most accurate data as it is updated:
+
+from sportsipy.nfl.boxscore import Boxscore
+
 ### Dashboard
 The dashboard we are building is a user friendly dashboard. We would like to include all the data we have gathered but not overwhelm the user. We would like to have separate folders/sections for the user to be able to browse the information they are looking for. The user can sort through the NFL team they are looking for and under each team will contain the schedule, results, prediction as well as data for QBs, RBs, WRs, and Defense. This dashboard will display all the data that was used for our prediction analysis. Here is a brief outline of how our dashboard is going to look like:
 
