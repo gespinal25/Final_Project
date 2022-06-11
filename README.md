@@ -24,6 +24,8 @@ Our team is using an online database with continous NFL statistics updates to ha
 
 from sportsipy.nfl.boxscore import Boxscore
 
+The csv containing stastical data was stored on Postgres database. Those are loaded onto github.
+
 ### Dashboard
 The dashboard we are building is a user friendly dashboard. We would like to include all the data we have gathered but not overwhelm the user. We would like to have separate folders/sections for the user to be able to browse the information they are looking for. The user can sort through the NFL team they are looking for and under each team will contain the schedule, results, prediction as well as data for QBs, RBs, WRs, and Defense. This dashboard will display all the data that was used for our prediction analysis. Here is a brief outline of how our dashboard is going to look like:
 
