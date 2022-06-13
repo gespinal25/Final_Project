@@ -47,6 +47,7 @@ The dashboard we are building is a user friendly dashboard. We would like to inc
   -- Each category is going to have its own graph
   -- The categories are Strength of Schedules, Original Schedule, and Road/Home games
   ![4](https://github.com/gespinal25/Final_Project/blob/main/Strength_Sch.png)
+  [Home/Road Game Schedules] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_1_16550917808560/RoadHomeSch_?publish=yes)
   
 - Fifth Page: Create a visual graph of the prediction of this upcoming season
   -- Will determine what visual will fit best once I have the data
