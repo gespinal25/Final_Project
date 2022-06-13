@@ -42,6 +42,7 @@ The dashboard we are building is a user friendly dashboard. We would like to inc
   -- The categories are WR, RB, QB and DST
   ![2](https://github.com/gespinal25/Final_Project/blob/main/RB_Stat.png)
   ![3](https://github.com/gespinal25/Final_Project/blob/main/WR_Stat.png)
+  [WR Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_3_16550920856480/WRStat?publish=yes)
   [DST Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_16550915902550/DSTStat?publish=yes)
   
 - Fourth Page: Create a packed bubbles for schedules
