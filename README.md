@@ -44,6 +44,7 @@ The dashboard we are building is a user friendly dashboard. We would like to inc
   ![3](https://github.com/gespinal25/Final_Project/blob/main/WR_Stat.png)
   [WR Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_3_16550920856480/WRStat?publish=yes)
   [RB Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_3_16550920856480/RBStat?publish=yes)
+  [QB Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_3_16550920856480/QBStat?publish=yes)
   [DST Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_16550915902550/DSTStat?publish=yes)
   
 - Fourth Page: Create a packed bubbles for schedules
