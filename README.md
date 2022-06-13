@@ -55,7 +55,10 @@ The dashboard we are building is a user friendly dashboard. We would like to inc
   -- The categories are Strength of Schedules, Original Schedule, and Road/Home games
   ![4](https://github.com/gespinal25/Final_Project/blob/main/Strength_Sch.png)
   [Original Schedule] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_2_16550918877620/Org_Sch_?publish=yes)
+  
   [Home/Road Game Schedules] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_1_16550917808560/RoadHomeSch_?publish=yes)
+  
+  [Strength of Schedules] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_3_16550920856480/StrengthofSch_?publish=yes)
   
   
 - Fifth Page: Create a visual graph of the prediction of this upcoming season
