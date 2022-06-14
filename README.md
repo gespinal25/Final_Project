@@ -65,3 +65,18 @@ The dashboard we are building is a user friendly dashboard. We would like to inc
   -- Will determine what visual will fit best once I have the data
   -- Will show the predicted wins/losses for each game
 ![5](https://github.com/gespinal25/Final_Project/blob/main/2021_QB_Stats_Plotly.png)
+
+## Results of our Model
+Our final model used the sklearn logistic regression package and the data ranged from the 1999 to 2022 NFL seasons. The model calculated a rolling exponentially weighted Expected Points Added (EPA) based on passing offense/defense and rushing offense/defense of all 32 teams. After using the nflfastypy package to import and matplotlib, pandas, and numpy to clean and visualize the data, we looked at the passing EPA per play for our favorite teams, the Philadelphia Eagles, the Green Bay Packers, and the Buffalo Bills.
+
+![6](https://github.com/gespinal25/Final_Project/blob/main/phi_epa.PNG)
+![7](https://github.com/gespinal25/Final_Project/blob/main/gb_epa.PNG)
+![8](https://github.com/gespinal25/Final_Project/blob/main/buf_epa.PNG)
+
+After merging the schedule, we looked at the 2021 playoffs EPA for the home teams.
+Lastly, we graphed the weighted importance of home and away EPAs and ran our data through the model to ultimately determine the win probability and correct predictions our model made. For the 2021 season, our model started at a 50% probability of correct predictions, which increased as the season went on, but then dropped drastically as the playoffs started. Our model predicted that for the 2022 season, the Buffalo Bills had a 63.8% win probability over the Green Bay Packers for the SuperBowl.
+
+![9](https://github.com/gespinal25/Final_Project/blob/main/2021_home_team_epa.PNG)
+![10](https://github.com/gespinal25/Final_Project/blob/main/2021_correct_predictions.PNG)
+![11](https://github.com/gespinal25/Final_Project/blob/main/2021_week_18_correct_predicitions.PNG)
+
