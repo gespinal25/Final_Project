@@ -62,7 +62,6 @@ The dashboard we are building is a user friendly dashboard. We would like to inc
   
   [Strength of Schedules] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_3_16550920856480/StrengthofSch_?publish=yes)
   
-  
 - Fifth Page: Create a visual graph of the prediction of this upcoming season
   -- Will determine what visual will fit best once I have the data
   -- Will show the predicted wins/losses for each game
