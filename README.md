@@ -24,6 +24,8 @@ Our team is using an online database with continous NFL statistics updates to ha
 
 from sportsipy.nfl.boxscore import Boxscore
 
+import nflfastpy as nfl
+
 The csv containing stastical data was stored on Postgres database. Those are loaded onto github.
 
 ### Dashboard
