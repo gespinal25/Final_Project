@@ -37,7 +37,7 @@ The dashboard we are building is a user friendly dashboard. We would like to inc
 - Second page: Create a Bar Graph of Wins, Losses, and Ties of each team throughout the years
   -- Using the data from 2002-2021
   ![1](https://github.com/gespinal25/Final_Project/blob/main/NFL_2002-2021_bg.png)
-  [Wins, Losses & Ties] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_3_16550920856480/2002-2021?publish=yes)
+  [Wins, Losses & Ties] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_7_16553330982940/2002-2021?publish=yes)
   
 - Third Page: Create a Bar/Scatter Graph or maybe Heat Map of team members and stats
   -- Each category is going to have its own graph
