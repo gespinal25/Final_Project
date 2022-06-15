@@ -58,7 +58,7 @@ The dashboard we are building is a user friendly dashboard. We would like to inc
   ![4](https://github.com/gespinal25/Final_Project/blob/main/Strength_Sch.png)
   [Original Schedule] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_8_16553371580940/Org_Sch_?publish=yes)
   
-  [Home/Road Game Schedules] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_1_16550917808560/RoadHomeSch_)
+  [Home/Road Game Schedules] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_9_16553372528910/RoadHomeSch_?publish=yes)
   
   [Strength of Schedules] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_3_16550920856480/StrengthofSch_)
   
