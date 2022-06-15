@@ -44,23 +44,23 @@ The dashboard we are building is a user friendly dashboard. We would like to inc
   -- The categories are WR, RB, QB and DST
   ![2](https://github.com/gespinal25/Final_Project/blob/main/RB_Stat.png)
   ![3](https://github.com/gespinal25/Final_Project/blob/main/WR_Stat.png)
-  [WR Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_3_16550920856480/WRStat?publish=yes)
+  [WR Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_6_16553329944390/WRStat)
   
-  [RB Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_3_16550920856480/RBStat?publish=yes)
+  [RB Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_5_16553328498850/RBStat)
   
-  [QB Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_3_16550920856480/QBStat?publish=yes)
+  [QB Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_4_16553327591820/QBStat)
   
-  [DST Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_16550915902550/DSTStat?publish=yes)
+  [DST Stats] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_16550915902550/DSTStat)
   
 - Fourth Page: Create a packed bubbles for schedules
   -- Each category is going to have its own graph
   -- The categories are Strength of Schedules, Original Schedule, and Road/Home games
   ![4](https://github.com/gespinal25/Final_Project/blob/main/Strength_Sch.png)
-  [Original Schedule] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_2_16550918877620/Org_Sch_?publish=yes)
+  [Original Schedule] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_2_16550918877620/Org_Sch_)
   
-  [Home/Road Game Schedules] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_1_16550917808560/RoadHomeSch_?publish=yes)
+  [Home/Road Game Schedules] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_1_16550917808560/RoadHomeSch_)
   
-  [Strength of Schedules] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_3_16550920856480/StrengthofSch_?publish=yes)
+  [Strength of Schedules] (https://public.tableau.com/app/profile/gisell.espinal/viz/Book2_3_16550920856480/StrengthofSch_)
   
 - Fifth Page: Create a visual graph of the prediction of this upcoming season
   -- Will determine what visual will fit best once I have the data
